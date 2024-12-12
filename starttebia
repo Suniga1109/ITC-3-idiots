@@ -1,0 +1,41 @@
+	<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Start of Our Journey</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+
+        <!-- Header Section -->
+        <header>
+            <h1>Welcome to The Start of Our Journey</h1>
+            <p>Documenting the first steps of an incredible adventure.</p>
+        </header>
+
+        <!-- Main Section (Introduction & Image) -->
+        <section class="main-section">
+            <div class="intro-text">
+                <h2>Our Story Begins</h2>
+                <p>
+                    Every journey has a beginning, and ours started with a dream. This is the story of how we set out to explore the world, share experiences, and build memories that will last a lifetime. 
+                    Join us as we step into the unknown, eager for what lies ahead!
+                </p>
+            </div>
+            <div class="intro-image">
+                <img src="images/start-journey.jpg" alt="Beginning of the Journey">
+            </div>
+        </section>
+
+        <!-- Footer Section -->
+        <footer>
+            <p>&copy; 2024 The Start of Our Journey. All rights reserved.</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
